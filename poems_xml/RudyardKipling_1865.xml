@@ -80,7 +80,7 @@
         <l met="-+|-+|-+|-+|-+|" rhythm="0102|010002|">Are losing theirs and blaming it on you,</l>
         <l met="-+|-+|-+|-+|-+|-" rhythm="000210|01020|">If you can trust yourself when all men doubt you,</l>
         <l met="-+|-+|-+|-+|-+|" rhythm="0002000101|">But make allowance for their doubting too;</l>
-        <l met="-+|-+|-+|-+|--+|-" rhythm="0002|00020010|">If you can wait and not be tired by waiting,</l>
+        <l met="-+|-+|-+|-+|-+|-" rhythm="0002|0002010|">If you can wait and not be tired by waiting,</l>
         <l met="-+|-+|-+|-+|-+|" rhythm="000200|0201|">Or being lied about, don’t deal in lies,</l>
         <l met="-+|-+|-+|-+|-+|-" rhythm="00020|002010|">Or being hated, don’t give way to hating,</l>
         <l met="-+|-+|-+|-+|-+|" rhythm="010021|0021|">And yet don’t look too good, nor talk too wise:</l>
@@ -101,7 +101,7 @@
         <l met="-+|-+|-+|-+|-+|-" rhythm="02|000200010|">And lose, and start again at your beginnings</l>
         <l met="-+|-+|-+|-+|-+|" rhythm="0001020001|">And never breathe a word about your loss;</l>
         <l met="-+|-+|-+|-+|-+|-" rhythm="00010201010|">If you can force your heart and nerve and sinew</l>
-        <l met="-+|-+|-+|-+|-+|" rhythm="0001200001">To serve your turn long after they are gone,</l>
+        <l met="-+|-+|-+|-+|-+|" rhythm="0001200001|">To serve your turn long after they are gone,</l>
         <l met="-+|-+|-+|-+|-+|-" rhythm="00120001001|">And so hold on when there is nothing in you</l>
         <l met="-+|-+|-+|-+|-+|" rhythm="00020001|02|">Except the Will which says to them: ‘Hold on!’</l>
     </lg>
@@ -111,9 +111,9 @@
         <l met="-+|-+|-+|-+|-+|-" rhythm="00010001020|">If neither foes nor loving friends can hurt you,</l>
         <l met="-+|-+|-+|-+|-+|" rhythm="010200|0120|">If all men count with you, but none too much;</l>
         <l met="-+|-+|-+|-+|-+|-" rhythm="00020100010|">If you can fill the unforgiving minute</l>
-        <l met="-+|-+|-+|-+|-+|" rhythm="0001010001">With sixty seconds’ worth of distance run,</l>
-        <l met="+--+|-+|-+|-+|-" rhythm="1002|0200010|">Yours is the Earth and everything that’s in it,</l>
-        <l met="-+|-+|-+|-+|-+|" rhythm="1|002|000201">And—which is more—you’ll be a Man, my son!</l>
+        <l met="-+|-+|-+|-+|-+|" rhythm="0001010002|">With sixty seconds’ worth of distance run,</l>
+        <l met="+--+|-+|-+|-+|-" rhythm="2001|0200010|">Yours is the Earth and everything that’s in it,</l>
+        <l met="-+|-+|-+|-+|-+|" rhythm="2|002|000201|">And—which is more—you’ll be a Man, my son!</l>
     </lg>
 </lg>
 
