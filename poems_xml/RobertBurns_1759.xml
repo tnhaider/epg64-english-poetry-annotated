@@ -136,7 +136,7 @@
 <lg type="poem">
     <head>A Man 's A Man For A ’ That</head>
 <lg rhyme="abcbbbdb" type="stanza" n="130">
-    <l n="469" met="-+|-+|-+|-+|" rhythm="01010200">Is there for honest Poverty</l>
+    <l n="469" met="-+|-+|-+|-+|" rhythm="01010200|">Is there for honest Poverty</l>
     <l n="470" met="-+|-+|--+|" rhythm="01002001|">That hings his head , an ’ a ’ that ;</l>
     <l n="471" met="-+|-+|-+|-+|" rhythm="01020001|">The coward slave — we pass him by ,</l>
     <l n="472" met="-+|-+|--+|" rhythm="0102001|">We dare be poor for a ’ that !</l>
@@ -176,7 +176,7 @@
     <l n="500" met="-+|-+|--+|" rhythm="0102001|">Are higher rank than a ’ that .</l>
 </lg>
 <lg rhyme="abcbbbdb" type="stanza" n="134">
-    <l n="501" met="-+|-+|-+|-+|" rhythm="00020101">Then let us pray that come it may ,</l>
+    <l n="501" met="-+|-+|-+|-+|" rhythm="00020101|">Then let us pray that come it may ,</l>
     <l n="502" met="-+|-+|--+|" rhythm="0102001|">( As come it will for a ’ that ,)</l>
     <l n="503" met="-+|-+|-+|--+|" rhythm="0102|0102|">That Sense and Worth , o'er a ’ the earth ,</l>
     <l n="504" met="-+|-+|--+|" rhythm="0102001|">Shall bear the gree , an ’ a ’ that .</l>
