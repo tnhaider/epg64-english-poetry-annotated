@@ -77,19 +77,19 @@
 <lg type="poem">
 <head>How Do I Love Thee? (Sonnet 43)</head>
 <lg rhyme="abbaabbacacdcd" type='stanza'>
-    <l met="-+|-+|-+|-+|-+|" rhythm="00020|00201|">How do I love thee? Let me count the ways.</l>
-    <l met="-+|-+|-+|-+|-+|" rhythm="0100020202">I love thee to the depth and breadth and height</l>
+    <l met="-+|-+|-+|-+|-+|" rhythm="10020|00201|">How do I love thee? Let me count the ways.</l>
+    <l met="-+|-+|-+|-+|-+|" rhythm="010002|02|02|">I love thee to the depth and breadth and height</l>
     <l met="-+|-+|-+|-+|-+|" rhythm="0102|010002|">My soul can reach, when feeling out of sight</l>
     <l met="--+|-+|-+|+-|+" rhythm="002010|0102|">For the ends of being and ideal grace.</l>
-    <l met="-+|-+|-+|--+|-+|" rhythm="01000100100">I love thee to the level of every day's</l>
-    <l met="-+|-+|-+|-+|-+|" rhythm="0102|010100|">Most quiet need, by sun and candle-light.</l>
-    <l met="-+|-+|--+|--+|" rhythm="0102001002|">I love thee freely, as men strive for right.</l>
-    <l met="-+|-+|--+|--+|" rhythm="0102000002|">I love thee purely, as they turn from praise.</l>
-    <l met="-+|-+|-+|-+|-+|" rhythm="0100020001">I love thee with the passion put to use</l>
+    <l met="-+|-+|-+|--+|-+|" rhythm="020|00100100">I love thee to the level of every day's</l>
+    <l met="-+|-+|-+|-+|-+|" rhythm="0102|02|0102|">Most quiet need, by sun and candle-light.</l>
+    <l met="-+|-+|--+|--+|" rhythm="01020|01002|">I love thee freely, as men strive for right.</l>
+    <l met="-+|-+|--+|--+|" rhythm="01020|00102|">I love thee purely, as they turn from praise.</l>
+    <l met="-+|-+|-+|-+|-+|" rhythm="0200010001|">I love thee with the passion put to use</l>
     <l met="-+|-+|-+|-+|-+|" rhythm="0012|000102|">In my old griefs, and with my childhood's faith.</l>
-    <l met="-+|-+|-+|-+|-+|" rhythm="0100020001">I love thee with a love I seemed to lose</l>
-    <l met="-+|-+|-+|-+|-+|" rhythm="0002|010001|">With my lost saints. I love thee with the breath,</l>
-    <l met="++|-+|-+|-+|-+|" rhythm="1|1|0102|0001|">Smiles, tears, of all my life; and, if God choose,</l>
+    <l met="-+|-+|-+|-+|-+|" rhythm="0200010001|">I love thee with a love I seemed to lose</l>
+    <l met="-+|-+|-+|-+|-+|" rhythm="0002|020001|">With my lost saints. I love thee with the breath,</l>
+    <l met="++|-+|-+|-+|-+|" rhythm="2|2|0102|0002|">Smiles, tears, of all my life; and, if God choose,</l>
     <l met="-+|-+|-+|-+|-+|" rhythm="0001020001|">I shall but love thee better after death.</l>
 </lg>
 </lg>
