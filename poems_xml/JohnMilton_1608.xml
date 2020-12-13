@@ -79,21 +79,21 @@
    <lg rhyme="abbaabbacdecde" type='stanza'>
        <l met="-+|-+|-+|-+|-+|" rhythm="0001000201|">WHEN I consider how my light is spent</l>
        <l met="-+|-+|-+|-+|-+|" rhythm="0001001201|">Ere half my days in this dark world and wide,</l>
-       <l met="-+|-+|-+|-+|-+|" rhythm="00100|00200|">And that one Talent which is death to hide</l>
+       <l met="-+|-+|-+|-+|-+|" rhythm="00200|00201|">And that one Talent which is death to hide</l>
        <l met="-+|-+|-+|-+|-+|" rhythm="20010|00200">Lodged with me useless, though my soul more bent</l>
        
-       <l met="-+|-+|-+|-+|-+|" rhythm="0100020|001">To serve therewith my Maker, and present</l>
+       <l met="-+|-+|-+|-+|-+|" rhythm="0100010|001">To serve therewith my Maker, and present</l>
        <l met="-+|-+|-+|-+|-+|" rhythm="0201|010102|">My true account, lest He returning chide,</l>
        <l met="-+|-+|-+|-+|-+|" rhythm="0101020|200|">“Doth God exact day-labour, light denied?”</l>
-       <l met="-+|-+|-+|-+|-+|" rhythm="0100|010002">I fondly ask. But Patience, to prevent</l>
+       <l met="-+|-+|-+|-+|-+|" rhythm="0201|020|001">I fondly ask. But Patience, to prevent</l>
     
-       <l met="-+|-+|-+|-+|-+|" rhythm="010002|2001">That murmur, soon replies, “God doth not need</l>
+       <l met="-+|-+|-+|-+|-+|" rhythm="020|002|2001|">That murmur, soon replies, “God doth not need</l>
        <l met="+-|-+|-+|-+|-+|" rhythm="0020|0102|01">Either man’s work or his own gifts. Who best</l>
        <l met="-+|-+|-+|-+|-+|" rhythm="0002|2001|02">Bear his mild yoke, they serve him best. His state</l>
     
        <l met="-+|-+|-+|-+|-+|" rhythm="010|2000001|">Is kingly: thousands at his bidding speed,</l>
        <l met="-+|-+|-+|-+|-+|" rhythm="0101010002|">And post o’er land and ocean without rest;</l>
-       <l met="-+|-+|-+|-+|-+|" rhythm="0100|020101|">They also serve who only stand and wait.”</l>
+       <l met="-+|-+|-+|-+|-+|" rhythm="0100020101|">They also serve who only stand and wait.”</l>
    </lg>
 </lg>
 
@@ -120,15 +120,15 @@
 <lg type='poem' n='3'>
 <head>Song on May Morning (1632–33)</head>
     <lg rhyme="aabbccddee" type='stanza'>
-        <l met="--+|--+|-+|-+|" rhythm="101002|1200">NOW the bright morning-star, Day’s harbinger,</l>
+        <l met="--+|--+|-+|-+|" rhythm="101002|1200|">NOW the bright morning-star, Day’s harbinger,</l>
         <l met="-+|-+|-+|-+|-+|" rhythm="020001|0010">Comes dancing from the East, and leads with her</l>
         <l met="-+|--+|-+|-+|-+|" rhythm="01002|000102|">The flowery May, who from her green lap throws</l>
         <l met="-+|-+|-+|-+|+-|" rhythm="01020|00120|">The yellow cowslip and the pale primrose.</l>
-        <l met="-+|-+|-+|-+|-" rhythm="1|102|00010">Hail, bounteous May, that dost inspire</l>
+        <l met="-+|-+|-+|-+|-" rhythm="2|102|00010">Hail, bounteous May, that dost inspire</l>
         <l met="+|-+|-+|-+|-" rhythm="2|02|01020|">Mirth, and youth, and warm desire!</l>
         <l met="+|-+|-+|-+|-" rhythm="10100020|">Woods and groves are of thy dressing;</l>
         <l met="+|-+|-+|-+|-" rhythm="10100020|">Hill and dale doth boast thy blessing.</l>
-        <l met="-+|-+|-+|-+|-+|" rhythm="1002000102|">Thus we salute thee with our early song,</l>
+        <l met="-+|-+|-+|-+|-+|" rhythm="10020|00102|">Thus we salute thee with our early song,</l>
         <l met="-+|-+|-+|-+|" rhythm="0200|0201|">And welcome thee, and wish thee long.</l>
 </lg>
 </lg>
