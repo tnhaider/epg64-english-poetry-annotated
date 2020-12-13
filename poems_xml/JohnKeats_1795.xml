@@ -80,16 +80,16 @@
     <l met="-+|-+|-+|-+|-+|" rhythm="0001020001|">Not in lone splendour hung aloft the night</l>
     <l met="-+|-+|-+|-+|-+|" rhythm="020|0010200|">And watching, with eternal lids apart,</l>
     <l met="-+|-+|-+|-+|-+|" rhythm="02010|10200|">Like nature’s patient, sleepless Eremite,</l>
-    <l met="-+|-+|-+|-+|-+|" rhythm="0002000001">The moving waters at their priestlike task</l>
-    <l met="-+|-+|-+|-+|-+|" rhythm="01020|01001|">Of pure ablution round earth’s human shores,</l>
-    <l met="-+|-+|-+|-+|-+|" rhythm="020001|1000">Or gazing on the new soft-fallen mask</l>
+    <l met="-+|-+|-+|-+|-+|" rhythm="0002000001|">The moving waters at their priestlike task</l>
+    <l met="-+|-+|-+|-+|-+|" rhythm="01020|02001|">Of pure ablution round earth’s human shores,</l>
+    <l met="-+|-+|-+|-+|-+|" rhythm="020001|2001|">Or gazing on the new soft-fallen mask</l>
     <l met="-+|-+|-+|-+|-+|" rhythm="0200010001|">Of snow upon the mountains and the moors—</l>
-    <l met="+|-+|-+|--+|-+|" rhythm="1|0201|20100|">No—yet still stedfast, still unchangeable,</l>
+    <l met="+|-+|-+|--+|-+|" rhythm="2|0201|20100|">No—yet still stedfast, still unchangeable,</l>
     <l met="+-|-+|-+|-+|-+|" rhythm="1000001201|">Pillow’d upon my fair love’s ripening breast,</l>
     <l met="-+|-+|-+|-+|-+|" rhythm="0102000101|">To feel for ever its soft fall and swell,</l>
     <l met="-+|-+|-+|-+|-+|" rhythm="0102000100|">Awake for ever in a sweet unrest,</l>
-    <l met="++|-+|-+|-+|-+|" rhythm="1|001010002|">Still, still to hear her tender-taken breath,</l>
-    <l met="-+|-+|--|-+|-+|" rhythm="00020|00101|">And so live ever—or else swoon to death.</l>
+    <l met="++|-+|-+|-+|-+|" rhythm="2|001010002|">Still, still to hear her tender-taken breath,</l>
+    <l met="-+|-+|--|-+|-+|" rhythm="00020|00201|">And so live ever—or else swoon to death.</l>
 </lg>
 </lg>
 
@@ -98,18 +98,18 @@
 <head>On Seeing the Elgin Marbles” (1817)</head>
     <lg rhyme="abbccbbcdedede" type='stanza'>
         <l met="-+|-+|-+|-+|-+|" rhythm="010002|0100">My spirit is too weak—mortality</l>
-        <l met="-+|-+|-+|-+|--+|" rhythm="020000|01002|">Weighs heavily on me like unwilling sleep,</l>
-        <l met="-+|-+|-+|-+|-+|" rhythm="0201010001">And each imagined pinnacle and steep</l>
-        <l met="-+|-+|-+|-+|-+|" rhythm="01020|10|001|">Of godlike hardship tells me I must die</l>
+        <l met="-+|-+|-+|-+|--+|" rhythm="020001|01002|">Weighs heavily on me like unwilling sleep,</l>
+        <l met="-+|-+|-+|-+|-+|" rhythm="0201010001|">And each imagined pinnacle and steep</l>
+        <l met="-+|-+|-+|-+|-+|" rhythm="01020|10002|">Of godlike hardship tells me I must die</l>
         <l met="+--+|-+|-+|-+|" rhythm="1002000001|">Like a sick eagle looking at the sky.</l>
         <l met="-+|-+|-+|-+|-+|" rhythm="0001020001|">Yet ‘tis a gentle luxury to weep,</l>
-        <l met="-+|-+|-+|-+|-+|" rhythm="0100010200">That I have not the cloudy winds to keep,</l>
-        <l met="+--+|--+|-+|-+|" rhythm="10020000201|">Fresh for the opening of the morning’s eye.</l>
+        <l met="-+|-+|-+|-+|-+|" rhythm="0100010200|">That I have not the cloudy winds to keep,</l>
+        <l met="+--+|--+|-+|-+|" rhythm="10020000100|">Fresh for the opening of the morning’s eye.</l>
         <l met="-+|--+|-+|-+|" rhythm="010020001|">Such dim-conceived glories of the brain</l>
-        <l met="-+|-+|-+|-+|--+|" rhythm="0100|0001002|">Bring round the heart an indescribable feud;</l>
+        <l met="-+|-+|-+|-+|--+|" rhythm="0102|0001002|">Bring round the heart an indescribable feud;</l>
         <l met="-+|-+|--+|--+|" rhythm="01020|00102|">So do these wonders a most dizzy pain,</l>
         <l met="-+|-+|-+|-+|-+|" rhythm="0100020|001">That mingles Grecian grandeur with the rude</l>
-        <l met="+-|--+|--+|--+|" rhythm="20001|100001|">Wasting of old Time—with a billowy main—</l>
+        <l met="+-|--+|--+|--+|" rhythm="20001|100002|">Wasting of old Time—with a billowy main—</l>
         <l met="-+|-+|-+|-+|-+|" rhythm="02|02000100|">A sun—a shadow of a magnitude.</l>
     </lg>
 </lg>
