@@ -78,7 +78,7 @@
     <l n="48" met="+--+|-+|-+|-+|-+|--+|-+|" rhythm="10020|00201|0010102|">Those of mechanics , each one singing his as it should be blithe and strong ,</l>
     <l n="49" met="-+|--+|-+|--+|-+|-+|" rhythm="0200100|00100102|">The carpenter singing his as he measures his plank or beam ,</l>
     <l n="50" met="-+|-+|-+|-+|-+|--+|-+|-+|" rhythm="020100|0001002|0201|">The mason singing his as he makes ready for work , or leaves off work ,</l>
-    <l n="51" met="-+|-+|-+|-+|-+|--+|-+|-" rhythm="02010|00100002|020">The boatman singing what belongs to him in his boat , the deckhand</l>
+    <l n="51" met="-+|-+|-+|-+|-+|--+|-+|-" rhythm="02010|00100002|020|">The boatman singing what belongs to him in his boat , the deckhand</l>
     <l n="52" met="+|-+|-+|-+|" rhythm="1000102|">singing on the steamboat deck ,</l>
     <l n="53" met="-+|--+|-+|-+|--+|-+|-+|-+|" rhythm="020010|001002|020100">The shoemaker singing as he sits on his bench , the hatter singing as</l>
     <l n="54" met="-+|" rhythm="01|">he stands ,</l>
@@ -88,8 +88,8 @@
     <l n="58" met="+--+|+-|-+|-" rhythm="0002|10020|">or of the girl sewing or washing ,</l>
     <l n="59" met="-+|-+|-+|-+|-+|-+|-+|" rhythm="0100020101|1002|">Each singing what belongs to him or her and to none else ,</l>
     <l n="60" met="-+|--+|--+|-+|-+|--+|" rhythm="01001002|0201000">The day what belongs to the day — at night the party of young</l>
-    <l n="61" met="+-|+-|+-|" rhythm="20|20|20|">fellows , robust , friendly ,</l>
-    <l n="62" met="+--|+-|+-|+-|+-|+" rhythm="100102|010102|">Singing with open mouths their strong melodious songs .</l>
+    <l n="61" met="+-|+-|+-|" rhythm="10|20|20|">fellows , robust , friendly ,</l>
+    <l n="62" met="+--|+-|+-|+-|+-|+" rhythm="200101|010102|">Singing with open mouths their strong melodious songs .</l>
 </lg>
 </lg>
 
