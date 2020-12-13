@@ -77,17 +77,17 @@
 <lg type='poem'>
     <head>Morning at the Window</head>
 <lg rhyme="abcc" type="stanza">
-    <l n="323" met="+-|+-|+-|+-|+-|" rhythm="001020001020|">They are rattling breakfast plates in basement kitchens ,</l>
+    <l n="323" met="+-|+-|+-|+-|+-|" rhythm="001020001010|">They are rattling breakfast plates in basement kitchens ,</l>
     <l n="324" met="+-|+-|+-|+-|+-|+" rhythm="01001020001|">And along the trampled edges of the street</l>
-    <l n="325" met="-|+-|+--|+--|+-|" rhythm="00010012010|">I am aware of the damp souls of housemaids</l>
+    <l n="325" met="+--|+--|+--|+-|" rhythm="00010012010|">I am aware of the damp souls of housemaids</l>
     <l n="326" met="+--|+-|+-|+-|+" rhythm="1001000201|">Sprouting despondently at area gates .</l>
 </lg>
 <lg rhyme="abcd" type='stanza'>
-    <l n="327" met="-+|--+|-+|-+|" rhythm="001020100|">The brown waves of fog toss up to me</l>
+    <l n="327" met="-|+--|+-|+-|+" rhythm="001020100|">The brown waves of fog toss up to me</l>
     <l n="328" met="+-|+-|+-|+-|+-|+" rhythm="10200010001|">Twisted faces from the bottom of the street ,</l>
     <l n="329" met="-|+--|+-|+-|+-|+" rhythm="0100102|0102|">And tear from a passer-by with muddy skirts</l>
-    <l n="330" met="-+|-+|-+|-+|-+|" rhythm="0102|010002|">An aimless smile that hovers in the air</l>
-    <l n="331" met="-+|-+|-+|-+|-+|-+|" rhythm="0200|01010002|">And vanishes along the level of the roofs .</l>
+    <l n="330" met="-|+-|+-|+-|+-|+" rhythm="0102|010002|">An aimless smile that hovers in the air</l>
+    <l n="331" met="-|+-|+-|+-|+-|+-|+" rhythm="0200|01010002|">And vanishes along the level of the roofs .</l>
 </lg>
 </lg>
 
@@ -99,11 +99,11 @@
         <l n="3" met="-+|-+|-+|-+|" rhythm="01020100|">With smell of steaks in passageways .</l>
         <l n="4" met="+-|+" rhythm="002|">Six o'clock .</l>
         <l n="5" met="-+|-+|-+|-+|" rhythm="00010102|">The burnt-out ends of smoky days .</l>
-        <l n="6" met="-+|-+|-+|-+|" rhythm="0001020|0">And now a gusty shower wraps</l>
-        <l n="7" met="-+|-+|" rhythm="0101">The grimy scraps</l>
-        <l n="8" met="-+|-+|-+|-+|" rhythm="0002|0102|">Of withered leaves about your feet</l>
+        <l n="6" met="-+|-+|-+|-+|" rhythm="00010201">And now a gusty shower wraps</l>
+        <l n="7" met="-+|-+|" rhythm="0101|">The grimy scraps</l>
+        <l n="8" met="-+|-+|-+|-+|" rhythm="00020101|">Of withered leaves about your feet</l>
         <l n="9" met="-+|--|-+|-+|" rhythm="02000101|">And newspapers from vacant lots ;</l>
-        <l n="10" met="-+|-+|" rhythm="0201">The showers beat</l>
+        <l n="10" met="-+|-+|" rhythm="0201|">The showers beat</l>
         <l n="11" met="-+|-+|-+|-+|" rhythm="01020101|">On broken blinds and chimney-pots ,</l>
         <l n="12" met="-+|-+|-+|-+|" rhythm="00010002|">And at the corner of the street</l>
         <l n="13" met="-+|-+|-+|-+|" rhythm="01020101|">A lonely cab-horse steams and stamps .</l>
@@ -135,7 +135,7 @@
         <l n="33" met="--+|-+|-+|-+|-" rhythm="0010100020|">And you heard the sparrows in the gutters ,</l>
         <l n="34" met="-+|--+|-+|-+|" rhythm="000020001|">You had such a vision of the street</l>
         <l n="35" met="--+|--+|-+|" rhythm="00120001|">As the street hardly understands ;</l>
-        <l n="36" met="+--+|-+|-+|" rhythm="1000002|0">Sitting along the bed 's edge , where</l>
+        <l n="36" met="+--+|-+|-+|" rhythm="10000020|">Sitting along the bed 's edge , where</l>
         <l n="37" met="-+|-+|-+|-+|" rhythm="01020001|">You curled the papers from your hair ,</l>
         <l n="38" met="-+|-+|-+|-+|" rhythm="01000102|">Or clasped the yellow soles of feet</l>
         <l n="39" met="--+|-+|-+|" rhythm="0010102|">In the palms of both soiled hands .</l>
