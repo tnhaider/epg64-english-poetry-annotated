@@ -74,19 +74,19 @@
 <lg type="poem">
     <head>OZYMANDIAS</head>
     <lg rhyme="ababacdcedefef" type="stanza" n="1">
-        <l n="1" met="-+|-+|--+|-+|-+|" rhythm="01020000100">I met a traveller from an antique land</l>
-        <l n="2" met="-+|-+|-+|-+|-+|" rhythm="01|01010002">Who said : Two vast and trunkless legs of stone</l>
-        <l n="3" met="-+|-+|-+|-+|-+|" rhythm="00020|10001|">Stand in the desert ... Near them , on the sand ,</l>
-        <l n="4" met="-+|-+|-+|-+|-+|" rhythm="01|010201|01">Half sunk , a shattered visage lies , whose frown ,</l>
-        <l n="5" met="-+|-+|-+|-+|-+|" rhythm="0001|020001|">And wrinkled lip , and sneer of cold command ,</l>
-        <l n="6" met="+--+|-+|-+|-+|" rhythm="1001020100">Tell that its sculptor well those passions read</l>
+        <l n="1" met="-+|-+|--+|-+|-+|" rhythm="01020000100|">I met a traveller from an antique land</l>
+        <l n="2" met="-+|-+|-+|-+|-+|" rhythm="02|01010002|">Who said : Two vast and trunkless legs of stone</l>
+        <l n="3" met="-+|-+|-+|-+|-+|" rhythm="10020|10002|">Stand in the desert ... Near them , on the sand ,</l>
+        <l n="4" met="-+|-+|-+|-+|-+|" rhythm="02|010201|01">Half sunk , a shattered visage lies , whose frown ,</l>
+        <l n="5" met="-+|-+|-+|-+|-+|" rhythm="0102|020001|">And wrinkled lip , and sneer of cold command ,</l>
+        <l n="6" met="+--+|-+|-+|-+|" rhythm="1001020100|">Tell that its sculptor well those passions read</l>
         <l n="7" met="-+|-+|-+|-+|-+|" rhythm="0102|100102|">Which yet survive , stamped on these lifeless things ,</l>
         <l n="8" met="-+|-+|-+|-+|-+|" rhythm="02010|00201|">The hand that mocked them , and the heart that fed :</l>
-        <l n="9" met="-+|-+|-+|-+|-+|" rhythm="000100|1200|">And on the pedestal these words appear :</l>
+        <l n="9" met="-+|-+|-+|-+|-+|" rhythm="000200|1200|">And on the pedestal these words appear :</l>
         <l n="10" met="-+|-+|-+|-+|-+|" rhythm="0100020|102|">‘ My name is Ozymandias , king of kings :</l>
-        <l n="11" met="+--+|-+|-+|-+|" rhythm="1002010|001|">Look on my works , ye Mighty , and despair ! ’</l>
+        <l n="11" met="+--+|-+|-+|-+|" rhythm="1002010|002|">Look on my works , ye Mighty , and despair ! ’</l>
         <l n="12" met="+--+|-+|+--+|" rhythm="000102|0001">Nothing beside remains . Round the decay</l>
-        <l n="13" met="-+|-+|-+|+--+|" rhythm="000102|1001|">Of that colossal wreck , boundless and bare</l>
+        <l n="13" met="-+|-+|-+|+--+|" rhythm="000102|1002|">Of that colossal wreck , boundless and bare</l>
         <l n="14" met="-+|-+|-+|+--+|" rhythm="0101020100|">The lone and level sands stretch far away .</l>
     </lg>
 </lg>
@@ -94,9 +94,9 @@
 <lg type="poem">
     <head>TO —.</head>
     <lg rhyme="abcc" type="stanza" n="1">
-        <l n="2" met="+-|+-|+-|+" rhythm="10|01002|">Music , when soft voices die ,</l>
+        <l n="2" met="+-|+-|+-|+" rhythm="20|01002|">Music , when soft voices die ,</l>
         <l n="3" met="+-|+-|+-|+" rhythm="2000100|">Vibrates in the memory —</l>
-        <l n="4" met="+-|+-|+--|+-|" rhythm="10|0100020|">Odours , when sweet violets sicken ,</l>
+        <l n="4" met="+-|+-|+--|+-|" rhythm="20|0100020|">Odours , when sweet violets sicken ,</l>
         <l n="5" met="+-|+-|+-|+-|" rhythm="20001000|">Live within the sense they quicken .</l>
     </lg>
     <lg rhyme="aabb" type="stanza" n="2">
@@ -113,35 +113,35 @@
         <l n="1">1 .</l>
         <l n="2" met="-+|-+|-+|-+|" rhythm="0201|0201|">The sun is warm , the sky is clear ,</l>
         <l n="3" met="-+|-+|-+|-+|" rhythm="00020101|">The waves are dancing fast and bright ,</l>
-        <l n="4" met="-+|-+|-+|-+|" rhythm="01010200">Blue isles and snowy mountains wear</l>
+        <l n="4" met="-+|-+|-+|-+|" rhythm="01010200|">Blue isles and snowy mountains wear</l>
         <l n="5" met="-+|-+|-+|-+|" rhythm="01000102|">The purple noon 's transparent might ,</l>
         <l n="6" met="-+|-+|-+|-+|" rhythm="01001002|">The breath of the moist earth is light , </l>
         <l n="7" met="-+|-+|-+|-+|" rhythm="00010002|">Around its unexpanded buds ;</l>
         <l n="8" met="-+|--+|-+|-+|" rhythm="010020001|">Like many a voice of one delight ,</l>
-        <l n="9" met="-+|-+|-+|-+|" rhythm="01|01|0001|">The winds , the birds , the ocean floods ,</l>
+        <l n="9" met="-+|-+|-+|-+|" rhythm="02|02|0201|">The winds , the birds , the ocean floods ,</l>
         <l n="10" met="-+|-+|-+|-+|-+|-+|" rhythm="010002|010200|">The City 's voice itself , is soft like Solitude 's .</l>
     </lg>
     <lg rhyme="ababbcbcc" type="stanza" n="2">
         <l n="11">2 .</l>
-        <l n="12" met="-+|-+|-+|-+|" rhythm="00010102">I see the Deep 's untrampled floor</l>
+        <l n="12" met="-+|-+|-+|-+|" rhythm="00010102|">I see the Deep 's untrampled floor</l>
         <l n="13" met="-+|-+|-+|-+|" rhythm="01010200|">With green and purple seaweeds strown ;</l>
-        <l n="14" met="-+|-+|-+|-+|" rhythm="00020001">I see the waves upon the shore ,</l>
-        <l n="15" met="-+|-+|-+|--+|" rhythm="02010100|1|">Like light dissolved in star-showers , thrown :</l>
+        <l n="14" met="-+|-+|-+|-+|" rhythm="00020001|">I see the waves upon the shore ,</l>
+        <l n="15" met="-+|-+|-+|--+|" rhythm="02010100|2|">Like light dissolved in star-showers , thrown :</l>
         <l n="16" met="-+|-+|-+|-+|" rhythm="00000102|">I sit upon the sands alone ,—</l>
-        <l n="17" met="-+|-+|-+|-+|-" rhythm="010001020">The lightning of the noontide ocean</l>
+        <l n="17" met="-+|-+|-+|-+|-" rhythm="010001020|">The lightning of the noontide ocean</l>
         <l n="18" met="-+|-+|-+|-+|" rhythm="01020|001">Is flashing round me , and a tone</l>
         <l n="19" met="-+|-+|-+|-+|-" rhythm="020000010|">Arises from its measured motion ,</l>
         <l n="20" met="-+|-+|-+|-+|-+|-+|-" rhythm="02|00010200010|">How sweet ! did any heart now share in my emotion .</l>
     </lg>
     <lg rhyme="ababcdcdd" type="stanza" n="3">
         <l n="21">3 .</l>
-        <l n="22" met="-+|-+|-+|-+|" rhythm="01|0002|02|">Alas ! I have nor hope nor health ,</l>
+        <l n="22" met="-+|-+|-+|-+|" rhythm="02|0002|02|">Alas ! I have nor hope nor health ,</l>
         <l n="23" met="-+|-+|-+|-+|" rhythm="0201|0201|">Nor peace within nor calm around ,</l>
         <l n="24" met="+--+|-+|-+|" rhythm="00020001|">Nor that content surpassing wealth</l>
         <l n="25" met="-+|-+|-+|-+|" rhythm="01000200|">The sage in meditation found ,</l>
         <l n="26" met="-+|-+|-+|-+|" rhythm="01010200|">And walked with inward glory crowned —</l>
         <l n="27" met="-+|-+|-+|-+|-" rhythm="02|02|02|020|">Nor fame , nor power , nor love , nor leisure .</l>
-        <l n="28" met="+--+|-+|-+|" rhythm="2001|0102|">Others I see whom these surround —</l>
+        <l n="28" met="+--+|-+|-+|" rhythm="20010101|">Others I see whom these surround —</l>
         <l n="29" met="+--+|-+|-+|-" rhythm="2001|01020|">Smiling they live , and call life pleasure ;—</l>
         <l n="30" met="-+|-+|--+|--+|-+|-" rhythm="02|01001000020|">To me that cup has been dealt in another measure .</l>
     </lg>
@@ -149,25 +149,25 @@
         <l n="31">4 .</l>
         <l n="32" met="-+|-+|-+|-+|" rhythm="00010002|">Yet now despair itself is mild ,</l>
         <l n="33" met="+-|--+|-+|-+|" rhythm="200010100|">Even as the winds and waters are ;</l>
-        <l n="34" met="-+|-+|--+|-+|" rhythm="000100102">I could lie down like a tired child ,</l>
+        <l n="34" met="-+|-+|--+|-+|" rhythm="000100102|">I could lie down like a tired child ,</l>
         <l n="35" met="-+|-+|-+|-+|" rhythm="01020001|">And weep away the life of care</l>
-        <l n="36" met="-+|-+|-+|-+|" rhythm="0102|0102">Which I have borne and yet must bear ,</l>
-        <l n="37" met="-+|-+|-+|-+|" rhythm="0201|0001|">Till death like sleep might steal on me ,</l>
-        <l n="38" met="-+|-+|--+|-" rhythm="00020001">And I might feel in the warm air</l>
+        <l n="36" met="-+|-+|-+|-+|" rhythm="0102|0102|">Which I have borne and yet must bear ,</l>
+        <l n="37" met="-+|-+|-+|-+|" rhythm="02010001|">Till death like sleep might steal on me ,</l>
+        <l n="38" met="-+|-+|--+|-" rhythm="00020001|">And I might feel in the warm air</l>
         <l n="39" met="-+|-+|-+|-+|" rhythm="0102|0100">My cheek grow cold , and hear the sea</l>
-        <l n="40" met="+|--+|-+|-+|-+|-+|" rhythm="200001|010200|">Breathe o'er my dying brain its last monotony .</l>
+        <l n="40" met="-+|-+|-+|-+|-+|-+|" rhythm="2|00001010200|">Breathe o'er my dying brain its last monotony .</l>
     </lg>
     <lg rhyme="abacbdbdd" type="stanza" n="5">
         <l n="41">5 .</l>
-        <l n="42" met="-+|-+|-+|-+|" rhythm="10000002|">Some might lament that I were cold ,</l>
-        <l n="43" met="-+|-+|-+|-+|" rhythm="01|001002|">As I , when this sweet day is gone ,</l>
+        <l n="42" met="-+|-+|-+|-+|" rhythm="10020001|">Some might lament that I were cold ,</l>
+        <l n="43" met="-+|-+|-+|-+|" rhythm="02|001002|">As I , when this sweet day is gone ,</l>
         <l n="44" met="-+|-+|-+|-+|" rhythm="00020001|">Which my lost heart , too soon grown old ,</l>
         <l n="45" met="-+|-+|-+|-+|" rhythm="02001001|">Insults with this untimely moan ;</l>
-        <l n="46" met="-+|-+|-+|-+|" rhythm="0100|0002">They might lament — for I am one</l>
-        <l n="47" met="-+|-+|-+|-+|" rhythm="0102|0100|">Whom men love not ,— and yet regret ,</l>
-        <l n="48" met="-+|-+|-+|-+|" rhythm="1002|0|001">Unlike this day , which , when the sun</l>
-        <l n="49" met="-+|-+|-+|-+|" rhythm="00000102|">Shall on its stainless glory set ,</l>
-        <l n="50" met="-+|-+|-+|-+|-+|-+|" rhythm="020|001|0102000|">Will linger , though enjoyed , like joy in memory yet .</l>
+        <l n="46" met="-+|-+|-+|-+|" rhythm="0102|0102|">They might lament — for I am one</l>
+        <l n="47" met="-+|-+|-+|-+|" rhythm="0102|0102|">Whom men love not ,— and yet regret ,</l>
+        <l n="48" met="-+|-+|-+|-+|" rhythm="1002|0001">Unlike this day , which , when the sun</l>
+        <l n="49" met="-+|-+|-+|-+|" rhythm="00010102|">Shall on its stainless glory set ,</l>
+        <l n="50" met="-+|-+|-+|-+|-+|-+|" rhythm="020|002|0102000|">Will linger , though enjoyed , like joy in memory yet .</l>
     </lg>
 </lg>
 
@@ -176,8 +176,8 @@
     <lg rhyme="ababccc" type="stanza" n="1">
         <l n="4" met="-+|--+|-+|" rhythm="0100201|">The flower that smiles to-day</l>
         <l n="5" met="-+|-+|" rhythm="0102|">To-morrow dies ;</l>
-        <l n="6" met="-+|-+|-+|" rhythm="100102">All that we wish to stay</l>
-        <l n="7" met="+--+|" rhythm="1001|">Tempts and then flies .</l>
+        <l n="6" met="-+|-+|-+|" rhythm="100102|">All that we wish to stay</l>
+        <l n="7" met="+--+|" rhythm="200|2|">Tempts and then flies .</l>
         <l n="8" met="-+|-+|-+|" rhythm="100102|">What is this world 's delight ? </l>
         <l n="9" met="+--+|-+|" rhythm="200001|">Lightning that mocks the night ,</l>
         <l n="10" met="+|+--+|" rhythm="20001|">Brief even as bright .</l>
@@ -185,11 +185,11 @@
     <lg rhyme="ababccc" type="stanza" n="2">
         <l n="12" met="+-|-+|-+|" rhythm="100200|">Virtue , how frail it is !</l>
         <l n="13" met="+--+|" rhythm="1002|">Friendship how rare !</l>
-        <l n="14" met="+--+|-+|" rhythm="100001">Love , how it sells poor bliss</l>
+        <l n="14" met="+--+|-+|" rhythm="100002|">Love , how it sells poor bliss</l>
         <l n="15" met="-+|-+|" rhythm="0102|">For proud despair !</l>
-        <l n="16" met="-+|-+|-+|" rhythm="02|0101|">But we , though soon they fall ,</l>
+        <l n="16" met="-+|-+|-+|" rhythm="02|0102|">But we , though soon they fall ,</l>
         <l n="17" met="-+|-+|-+|" rhythm="0201|01">Survive their joy , and all</l>
-        <l n="18" met="-+|-+|" rhythm="02001|">Which ours we call .</l>
+        <l n="18" met="-+|-+|" rhythm="001|">Which ours we call .</l>
     </lg>
     <lg rhyme="ababccc" type="stanza" n="3">
         <l n="20" met="-+|-+|-+|" rhythm="020101|">Whilst skies are blue and bright ,</l>
