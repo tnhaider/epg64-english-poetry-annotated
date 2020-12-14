@@ -97,19 +97,19 @@
         <lg type="poem">
             <head>Grief</head>
             <lg rhyme="abbaabbacdefde" type='stanza'>
-                <l met="-+|-+|-+|-+|-+|" rhythm="010|1000200|">I tell you, hopeless grief is passionless; </l>
-                <l met="-+|-+|-+|-+|--+|" rhythm="02010200001|">That only men incredulous of despair, </l>
-                <l met="-+|-+|-+|-+|-+|" rhythm="10020|10002">Half-taught in anguish, through the midnight air </l>
-                <l met="-+|-+|-+|-+|-+|" rhythm="0100020002">Beat upward to God’s throne in loud access </l>
-                <l met="-+|-+|-+|-+|-+|" rhythm="010001|0200|">Of shrieking and reproach. Full desertness, </l>
+                <l met="-+|-+|-+|-+|-+|" rhythm="020|1000200|">I tell you, hopeless grief is passionless; </l>
+                <l met="-+|-+|-+|-+|--+|" rhythm="01010200001|">That only men incredulous of despair, </l>
+                <l met="-+|-+|-+|-+|-+|" rhythm="10020|10002|">Half-taught in anguish, through the midnight air </l>
+                <l met="-+|-+|-+|-+|-+|" rhythm="0100020001|">Beat upward to God’s throne in loud access </l>
+                <l met="-+|-+|-+|-+|-+|" rhythm="020|002|1200|">Of shrieking and reproach. Full desertness, </l>
                 <l met="-+|-+|-+|-+|-+|" rhythm="02010|10002">In souls as countries, lieth silent-bare </l>
-                <l met="+-|-+|-+|--+|-" rhythm="00010|10020">Under the blanching, vertical eye-glare </l>
+                <l met="+-|-+|-+|--+|-" rhythm="00010|10020|">Under the blanching, vertical eye-glare </l>
                 <l met="+|-+|--+|-+|--+|-+|" rhythm="0010020|1002|00">Of the absolute heavens. Deep-hearted man, express </l>
                 <l met="+-|-+|-+|-+|-+|" rhythm="2001010000|">Grief for thy dead in silence like to death— </l>
                 <l met="-+|-+|-+|-+|-+|" rhythm="1001000201">Most like a monumental statue set </l>
-                <l met="-+|-+|-+|-+|-+|" rhythm="0100020102|">In everlasting watch and moveless woe </l>
+                <l met="-+|-+|-+|-+|-+|" rhythm="0100020001|">In everlasting watch and moveless woe </l>
                 <l met="-+|-+|-+|-+|-+|" rhythm="0012000100|">Till itself crumble to the dust beneath. </l>
-                <l met="+-|-+|-+|-+|-+|" rhythm="20|01020002|">Touch it; the marble eyelids are not wet: </l>
+                <l met="+-|-+|-+|-+|-+|" rhythm="20|01020001|">Touch it; the marble eyelids are not wet: </l>
                 <l met="-+|-+|-+|-+|-+|" rhythm="1002|000201|">If it could weep, it could arise and go. </l>
             </lg>
         </lg>
@@ -119,16 +119,16 @@
         <lg type="poem">
             <head>Sonnet XXIV</head>
             <lg rhyme="abbaabbacdcecf" type="stanza">
-                <l n="333" met="+--+|-+|-+|-+|" rhythm="10020|00102">Let the world 's sharpness , like a clasping knife ,</l>
-                <l n="334" met="-+|-+|-+|-+|-+|" rhythm="010002|0102">Shut in upon itself and do no harm</l>
-                <l n="335" met="-+|-+|-+|-+|-+|" rhythm="001002|0101|">In this close hand of Love , now soft and warm ,</l>
-                <l n="336" met="-+|-+|-+|-+|-+|" rhythm="0001020002">And let us hear no sound of human strife</l>
-                <l n="337" met="+--+|--+|-+|-+|" rhythm="00020010|101|">After the click of the shutting . Life to life —</l>
-                <l n="338" met="-+|-+|-+|-+|-+|" rhythm="02001|1|0001|">I lean upon thee , Dear , without alarm ,</l>
-                <l n="339" met="-+|-+|-+|-+|-+|" rhythm="0100020001">And feel as safe as guarded by a charm</l>
+                <l n="333" met="+--+|-+|-+|-+|" rhythm="10020|00102|">Let the world 's sharpness , like a clasping knife ,</l>
+                <l n="334" met="-+|-+|-+|-+|-+|" rhythm="010002|0102|">Shut in upon itself and do no harm</l>
+                <l n="335" met="-+|-+|-+|-+|-+|" rhythm="001002|0201|">In this close hand of Love , now soft and warm ,</l>
+                <l n="336" met="-+|-+|-+|-+|-+|" rhythm="0001020001|">And let us hear no sound of human strife</l>
+                <l n="337" met="+--+|--+|-+|-+|" rhythm="00020010|201|">After the click of the shutting . Life to life —</l>
+                <l n="338" met="-+|-+|-+|-+|-+|" rhythm="02001|2|0002|">I lean upon thee , Dear , without alarm ,</l>
+                <l n="339" met="-+|-+|-+|-+|-+|" rhythm="0100020001|">And feel as safe as guarded by a charm</l>
                 <l n="340" met="-+|-+|-+|-+|-+|" rhythm="0002010|002|">Against the stab of worldlings , who if rife</l>
-                <l n="341" met="-+|-+|-+|-+|-+|" rhythm="00010|00100">Are weak to injure . Very-whitely still</l>
-                <l n="342" met="-+|-+|-+|-+|-+|" rhythm="0200010002">The lilies of our lives may reassure</l>
+                <l n="341" met="-+|-+|-+|-+|-+|" rhythm="01020|00102|">Are weak to injure . Very-whitely still</l>
+                <l n="342" met="-+|-+|-+|-+|-+|" rhythm="0200010001|">The lilies of our lives may reassure</l>
                 <l n="343" met="-+|-+|-+|-+|-+|" rhythm="010002|0100">Their blossoms from their roots , accessible</l>
                 <l n="344" met="-+|-+|--+|-+|-+|-" rhythm="0101002|01020|">Alone to heavenly dews that drop not fewer</l>
                 <l n="345" met="+-|++|--+|--+|" rhythm="0010002001|">Growing straight , out of man 's reach , on the hill .</l>
